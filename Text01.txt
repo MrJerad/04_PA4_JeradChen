@@ -4,4 +4,14 @@
 4) It is the combined execution of two or more classes, packages, components or subsystems.
 5) Multiple programmers or programming teams.
 6) It may fall under both types.
-(DONE BY IZNI)
+
+
+SYSTEM TESTING
+Q1.System testingis the execution of the software in its final configuration, including integration with other software and hardware systems.
+Q2.Customer and end-user
+Q3.Blackbox Testing
+
+ACCEPTANCE TESTING
+Q1.created during the design phase and the actual testing is done after the system is fully developed and tested.  
+Q2.End-User
+Q3.WhiteBox Testing
