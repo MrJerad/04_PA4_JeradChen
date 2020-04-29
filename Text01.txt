@@ -1,0 +1,6 @@
+1) It is the execution of a complete class, routine or small program.
+2) A single programmer or team of programmers.
+3) Whitebox.
+4) It is the combined execution of two or more classes, packages, components or subsystems.
+5) Multiple programmers or programming teams.
+6) It may fall under both types.
