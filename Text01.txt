@@ -4,3 +4,4 @@
 4) It is the combined execution of two or more classes, packages, components or subsystems.
 5) Multiple programmers or programming teams.
 6) It may fall under both types.
+(DONE BY IZNI)
