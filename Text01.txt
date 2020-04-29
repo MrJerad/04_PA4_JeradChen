@@ -15,3 +15,4 @@ ACCEPTANCE TESTING
 Q1.created during the design phase and the actual testing is done after the system is fully developed and tested.  
 Q2.End-User
 Q3.WhiteBox Testing
+(DONE BY IZNI)
